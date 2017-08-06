@@ -1,3 +1,7 @@
 #friends > div.friends-header{
-zoom:0.2;
+zoom:0.2 !important;
+
+}
+*{
+display:none !important;
 }
